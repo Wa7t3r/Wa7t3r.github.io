@@ -102,7 +102,15 @@ Markdown | Less | Pretty
 
 Quote break.
 
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. <dl>
+>  Influenced by my migrant background and the blue-collar work that shaped my upbringing, my concepts contextualize the people, places, and patterns that surround me. In my process I saturate myself with various imagery, music, and materials, fixating on their impact on society and the individual. I view my artistic practice as a grapple with apophenia, a string of distant connections to be woven into tangible forms of expression.
+
+    I compose my work as deliberate layers of context, bound together by overarching themes: Migration, religion, psychology, and domination, focusing on the remnants that permeate my everyday life— social discrepancies, masculinity,  and labor. I regularly revisit topics of American Imperialism,  Abrahamic Religions, Psychoanalysis, Slave Morality, and Social Sculpture, grasping at their intersections, blurring theory and reality in pursuit of the metaphysical.
+
+    My work typically diverges into a performance-esque sculpture, where the piece can live as a record of its processes as well as a standalone sculpture. Instead of it being a definitive performance or static work of art, the apex lies somewhere between both. Amidst the beginning and completion of the artwork, the piece crescendos. Although the pieces can be exclusively performed or displayed as sculptures, they reach a form of symbiosis when created this way, making the art impose itself both physically and conceptually.
+
+    I’m infatuated with honest mediums, honest forms of communication that aren’t embellished or decadent, but effective and unrestricted by conventionality. Most of my artistic approaches focus on establishing relationships between materials/motifs and creating a conversation within the work. In some of my performative processes like in “Entre Ceuta Y Gibraltar”, I  underscore true ephemerality by having the piece installed into a wall and painted over. Not one of “self-destruction” but of true disregard, a candid expression of futility.
+
+    My work exists to project social patterns I observe and experience. Art to me, is an outcome of study with the intent to dismantle facades. <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
 
