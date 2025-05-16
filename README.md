@@ -1,58 +1,7 @@
 
 ![MV5BODI1NDExZTItNTY0OS00NTk4LWJlZTgtMWMwYTYzZWFmNmRhXkEyXkFqcGdeQXVyMTUzMTg2ODkz _V1_QL75_UX1640_](https://github.com/user-attachments/assets/590e9d6e-8e38-451a-9a4d-d7586b319849)
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```No language indicated, so no syntax highlighting in Markdown Here (varies on Github). 
-But let's throw in a <b>tag</b>.
- Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].  
-
-You can also use words, to fit your writing style more closely[^note].
-
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```var s = "JavaScript syntax highlighting";
-alert(s);
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
 
 Quote break.
 
